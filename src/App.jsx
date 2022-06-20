@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import Nav from './components/Nav';
-
+ /// Comments
 function App() {
   return (
     <main>
@@ -12,5 +12,3 @@ function App() {
 }
 
 export default App;
-
-// lol
