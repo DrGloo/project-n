@@ -3,7 +3,7 @@ import './App.css';
 
 import Nav from './components/Nav';
 
-// Work on Auth Functionality & Database.
+// Work on Auth Functionality & Database
 function App() {
   return (
     <main>
