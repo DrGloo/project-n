@@ -4,6 +4,7 @@ import './App.css';
 import Nav from './components/Nav';
 
 // Work on Auth Functionality & Database
+// Create some video game logic 
 function App() {
   return (
     <main>
